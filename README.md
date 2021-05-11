@@ -1,1 +1,1 @@
-# countdown-timer with HTML5, CSS3 & Javascript.
+# Countdown-timer with HTML5, CSS3 & Javascript.
