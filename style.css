@@ -54,14 +54,19 @@ h1{
     color:yellow
 }
 
-@media screen and (max-width: 760px) {
+@media only screen and (max-width: 375px) {
+    body {
+        margin: 0;
+        padding: 0;
+    }
+    
     h1 {
-        font-size: 2rem;
-        margin-top: 0rem;
+        font-size: 1.5rem;
         color: yellow;
+        margin: 0;
     }
 
     .big-text {
-        font-size: 5rem;
+        font-size: 4rem;
     }
 }
