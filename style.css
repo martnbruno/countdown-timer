@@ -53,3 +53,15 @@ h1{
     font-size: 1.5rem;
     color:yellow
 }
+
+@media screen and (max-width: 760px) {
+    h1 {
+        font-size: 2rem;
+        margin-top: 0rem;
+        color: yellow;
+    }
+
+    .big-text {
+        font-size: 5rem;
+    }
+}
