@@ -8,7 +8,7 @@
 body{
     font-family: "Poppins", sans-serif;
     margin: 0;
-    background-image: url("./bg4.jpg");
+    /* background-image: url("./bg4.jpg"); */
     min-height: 100vh;
     display: flex;
     background-size: cover;
